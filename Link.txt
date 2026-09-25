@@ -1,1 +1,7 @@
+
+Vercel:
 https://claudecodetreasuregame-initial-pi-ten.vercel.app/
+
+Github:
+- Play the game: https://jerry-jk.github.io/claude_code_treasure_game-initial/
+- Code: https://github.com/jerry-jk/claude_code_treasure_game-initial (now public)
